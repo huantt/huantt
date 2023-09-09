@@ -1,0 +1,26 @@
+# About me
+
+- Name: Jack
+- My blog: [dev.to/jacktt](https://dev.to/jacktt)
+- Email: [tathuan96@gmail.com](mailto:tathuan96@gmail.com)
+- Software engineer | DevOps | Gopher 🇻🇳
+
+## Today's Weather Forecast in My Hometown
+
+{{ with $todayWeather := index .Weathers 0 }}
+
+`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
+
+<img src="{{ $todayWeather.Icon}}"/>
+
+{{ $todayWeather.Condition }}
+
+{{template "hourly-table" $todayWeather.HourlyWeathers}}
+
+{{- end }}
+
+<div align="right">
+    
+*Updated by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+
+</div>
