@@ -26,11 +26,11 @@ jobs:
       - name: Collect weathers
         run: |
           go install github.com/huantt/weather-forecast@latest
-          weather-forecast update-weather --days=3 --city=HaNoi  --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.tpl'
+          weather-forecast update-weather --days=3 --city=HaNoi  --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
       - name: Merge templates
         run: |
           go install github.com/huantt/merge-templates@v1.0.0
-          merge-templates README.md 'templates/README.md.tpl' '.tmp/articles.tpl' '.tmp/weathers.tpl'
+          merge-templates README.md 'templates/README.md.tpl' '.tmp/articles.md.tpl' '.tmp/weathers.md.tpl'
       - name: Commit
         run: |
           git config user.name github-actions
