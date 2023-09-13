@@ -15,9 +15,10 @@ jobs:
       - uses: actions/setup-go@v4
         with:
           go-version: '1.21.0'
-      - name: Export go-bin
+      - name: Prepare
         run: |
           export PATH=$PATH:$(go env GOPATH)/bin
+          mkdir .tmp
       - name: Collect articles
         run: |
           go install github.com/huantt/article-listing@latest
