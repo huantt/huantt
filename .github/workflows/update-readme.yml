@@ -30,7 +30,7 @@ jobs:
       - name: Merge templates
         run: |
           go install github.com/huantt/merge-templates@v1.0.0
-          merge-templates README.md 'templates/README.md.tpl' 'templates/articles.tpl' 'templates/weathers.tpl'
+          merge-templates README.md 'templates/README.md.tpl' '.tmp/articles.tpl' '.tmp/weathers.tpl'
       - name: Commit
         run: |
           git config user.name github-actions
