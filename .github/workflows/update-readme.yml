@@ -21,11 +21,11 @@ jobs:
       - name: Collect articles
         run: |
           go install github.com/huantt/article-listing@latest
-          article-listing --username=jacktt --template-file='templates/articles.md.tpl' --out-file='.tmp/articles.md.tpl' --limit=5
+          article-listing update-articles --username=jacktt --template-file='templates/articles.md.tpl' --out-file='.tmp/articles.md.tpl' --limit=5
       - name: Collect weathers
         run: |
           go install github.com/huantt/weather-forecast@latest
-          weather-forecast --days=3 --city=HaNoi  --weather-api-key="$WEATHER_API_KEY" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.tpl'
+          weather-forecast update-weather --days=3 --city=HaNoi  --weather-api-key="$WEATHER_API_KEY" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.tpl'
       - name: Merge templates
         run: |
           go install github.com/huantt/merge-templates@1.0.0
