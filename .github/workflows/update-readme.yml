@@ -1,0 +1,39 @@
+name: "Cronjob"
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  update-weather:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v4
+        with:
+          go-version: '1.21.0'
+      - name: Export go-bin
+        run: |
+          export PATH=$PATH:$(go env GOPATH)/bin
+      - name: Collect articles
+        run: |
+          go install github.com/huantt/article-listing@latest
+          article-listing --username=jacktt --template-file='templates/articles.md.tpl' --out-file='.tmp/articles.md.tpl' --limit=5
+      - name: Collect weathers
+        run: |
+          go install github.com/huantt/weather-forecast@latest
+          weather-forecast --days=3 --city=HaNoi  --weather-api-key="$WEATHER_API_KEY" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.tpl'
+      - name: Merge templates
+        run: |
+          go install github.com/huantt/merge-templates@1.0.0
+          merge-templates README.md 'templates/README.md.tpl' 'templates/articles.tpl' 'templates/weathers.tpl'
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update"
+          git push origin main
