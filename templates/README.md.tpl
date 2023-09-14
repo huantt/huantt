@@ -11,5 +11,5 @@
 
 ## Today's Weather Forecast in My Hometown
 
-{{ template "weather.md.tpl" }}
+{{ template "weathers.md.tpl" }}
 
