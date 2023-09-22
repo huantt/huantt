@@ -10,8 +10,20 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">
+                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1605751/thumbnail?t=2023-09-22%2001%3a38%3a53.59004134%20%2b0000%20UTC%20m%3d%2b0.613264181" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">Why I Like Writing Technical Blogs</a>
+                <div>Requires me to delve further into the topic   It forces me to learn more deeply about the...</div>
+                <div><i>20/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">
-                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1606750/thumbnail" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1606750/thumbnail?t=2023-09-22%2001%3a38%3a53.59004134%20%2b0000%20UTC%20m%3d%2b0.613264181" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,7 +35,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g">
-                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1605720/thumbnail" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1605720/thumbnail?t=2023-09-22%2001%3a38%3a53.59004134%20%2b0000%20UTC%20m%3d%2b0.613264181" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +47,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc">
-                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1600945/thumbnail" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1600945/thumbnail?t=2023-09-22%2001%3a38%3a53.59004134%20%2b0000%20UTC%20m%3d%2b0.613264181" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi">
-                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1599793/thumbnail" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1599793/thumbnail?t=2023-09-22%2001%3a38%3a53.59004134%20%2b0000%20UTC%20m%3d%2b0.613264181" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -56,23 +68,11 @@
                 <div><i>14/09/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/creating-dynamic-readmemd-file-388o">
-                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1594564/thumbnail" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/creating-dynamic-readmemd-file-388o">Creating Dynamic README.md File</a>
-                <div>This is my Github Profile. The specific thing here is that the weather is updated every 6 hours...</div>
-                <div><i>09/09/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-09-22T01:27:29Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-09-22T01:38:53Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -114,7 +114,7 @@ Patchy rain possible
 
 <div align="right">
 
-*Updated at: 2023-09-22T01:27:31Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-09-22T01:38:55Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
