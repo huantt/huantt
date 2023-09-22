@@ -3,7 +3,7 @@
         <tr>
             <td width="300px">
                 <a href="{{$article.Url}}">
-                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/{{ $article.Id }}/thumbnail" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/{{ $article.Id }}/thumbnail?t={{ $.Time }}" alt="thumbnail">
                 </a>
             </td>
             <td>
