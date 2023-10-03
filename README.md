@@ -1,5 +1,5 @@
 # About me
-Force run
+
 - Name: Jack
 - My blog: [dev.to/jacktt](https://dev.to/jacktt)
 - Email: [tathuan96@gmail.com](mailto:tathuan96@gmail.com)
@@ -10,20 +10,20 @@ Force run
 <table>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-5bj9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1618285/thumbnail?t=2023-10-03%2014%3a26%3a37.156205238%20%2b0000%20UTC%20m%3d%2b0.167209585" alt="thumbnail">
+                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1619274/thumbnail?t=2023-10-03%2014%3a44%3a27.383965683%20%2b0000%20UTC%20m%3d%2b0.228238363" alt="thumbnail">
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-5bj9">20X Faster Golang Docker Builds</a>
-                <div>Hello According to the Go command documentation:  &#34;The go command caches build outputs for reuse in...</div>
-                <div><i>02/10/2023</i></div>
+                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...</a>
+                <div>In the world of content creation, each platform offers unique advantages. Publishing articles on...</div>
+                <div><i>03/10/2023</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-289n">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1610649/thumbnail?t=2023-10-03%2014%3a26%3a37.156205238%20%2b0000%20UTC%20m%3d%2b0.167209585" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1610649/thumbnail?t=2023-10-03%2014%3a44%3a27.383965683%20%2b0000%20UTC%20m%3d%2b0.228238363" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +35,7 @@ Force run
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1605751/thumbnail?t=2023-10-03%2014%3a26%3a37.156205238%20%2b0000%20UTC%20m%3d%2b0.167209585" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1605751/thumbnail?t=2023-10-03%2014%3a44%3a27.383965683%20%2b0000%20UTC%20m%3d%2b0.228238363" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +47,7 @@ Force run
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1606750/thumbnail?t=2023-10-03%2014%3a26%3a37.156205238%20%2b0000%20UTC%20m%3d%2b0.167209585" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1606750/thumbnail?t=2023-10-03%2014%3a44%3a27.383965683%20%2b0000%20UTC%20m%3d%2b0.228238363" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -59,7 +59,7 @@ Force run
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1605720/thumbnail?t=2023-10-03%2014%3a26%3a37.156205238%20%2b0000%20UTC%20m%3d%2b0.167209585" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1605720/thumbnail?t=2023-10-03%2014%3a44%3a27.383965683%20%2b0000%20UTC%20m%3d%2b0.228238363" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@ Force run
 
 <div align="right">
 
-*Updated at: 2023-10-03T14:26:37Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-10-03T14:44:27Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -114,7 +114,7 @@ Sunny
 
 <div align="right">
 
-*Updated at: 2023-10-03T14:26:39Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-03T14:44:30Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
