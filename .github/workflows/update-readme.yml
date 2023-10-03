@@ -7,7 +7,7 @@ on:
       - 'main'
 
 jobs:
-  update-weather:
+  update-readme:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
