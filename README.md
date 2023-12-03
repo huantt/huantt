@@ -11,7 +11,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1646687/thumbnail?t=2023-12-03%2006%3a27%3a35.738695085%20%2b0000%20UTC%20m%3d%2b0.099952215" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1646687/thumbnail?t=2023-12-03%2012%3a40%3a07.099169607%20%2b0000%20UTC%20m%3d%2b0.117495108" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,7 +23,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/explaining-ab-testing-algorithm-50mf">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1645679/thumbnail?t=2023-12-03%2006%3a27%3a35.738695085%20%2b0000%20UTC%20m%3d%2b0.099952215" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1645679/thumbnail?t=2023-12-03%2012%3a40%3a07.099169607%20%2b0000%20UTC%20m%3d%2b0.117495108" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +35,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1644268/thumbnail?t=2023-12-03%2006%3a27%3a35.738695085%20%2b0000%20UTC%20m%3d%2b0.099952215" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1644268/thumbnail?t=2023-12-03%2012%3a40%3a07.099169607%20%2b0000%20UTC%20m%3d%2b0.117495108" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +47,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/migrate-redis-to-aws-elasticache-8bl">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1639841/thumbnail?t=2023-12-03%2006%3a27%3a35.738695085%20%2b0000%20UTC%20m%3d%2b0.099952215" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1639841/thumbnail?t=2023-12-03%2012%3a40%3a07.099169607%20%2b0000%20UTC%20m%3d%2b0.117495108" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -59,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/writing-resume-as-code-why-not-iab">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1632508/thumbnail?t=2023-12-03%2006%3a27%3a35.738695085%20%2b0000%20UTC%20m%3d%2b0.099952215" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1632508/thumbnail?t=2023-12-03%2012%3a40%3a07.099169607%20%2b0000%20UTC%20m%3d%2b0.117495108" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2023-12-03T06:27:35Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-12-03T12:40:07Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -103,18 +103,18 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18.4 °C</td><td>18.3 °C</td><td>18.3 °C</td><td>18.2 °C</td><td>18 °C</td><td>18.1 °C</td><td>18.2 °C</td><td>18.3 °C</td><td>18.6 °C</td><td>19.1 °C</td><td>19.7 °C</td><td>20.1 °C</td><td>20.3 °C</td><td>19 °C</td><td>20.5 °C</td><td>20.6 °C</td><td>20.6 °C</td><td>20.3 °C</td><td>20.2 °C</td><td>20.1 °C</td><td>20 °C</td><td>20 °C</td><td>19.9 °C</td><td>19.9 °C</td>
+        <td>18.4 °C</td><td>18.3 °C</td><td>18.3 °C</td><td>18.2 °C</td><td>18 °C</td><td>18.1 °C</td><td>18.2 °C</td><td>18.3 °C</td><td>18.6 °C</td><td>19.1 °C</td><td>19.7 °C</td><td>20.1 °C</td><td>20.3 °C</td><td>20.5 °C</td><td>20.5 °C</td><td>20.6 °C</td><td>20.6 °C</td><td>20.3 °C</td><td>20.2 °C</td><td>18 °C</td><td>20 °C</td><td>20 °C</td><td>19.9 °C</td><td>19.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>5 kph</td><td>4 kph</td><td>2.9 kph</td><td>4 kph</td><td>15.1 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>4 kph</td><td>5.4 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>4.7 kph</td><td>4 kph</td>
+        <td>6.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>5 kph</td><td>4 kph</td><td>2.9 kph</td><td>4 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>4 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>4.7 kph</td><td>4 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-12-03T06:27:37Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-12-03T12:40:09Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
