@@ -11,7 +11,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/saa-aws-storage-types-1noo">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1739612/thumbnail?t=2024-01-24%2012%3a44%3a30.559175719%20%2b0000%20UTC%20m%3d%2b0.154828752" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1739612/thumbnail?t=2024-01-24%2018%3a28%3a32.548091226%20%2b0000%20UTC%20m%3d%2b0.031482441" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,7 +23,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/kubernetes-scheduler-129i">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1715409/thumbnail?t=2024-01-24%2012%3a44%3a30.559175719%20%2b0000%20UTC%20m%3d%2b0.154828752" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1715409/thumbnail?t=2024-01-24%2018%3a28%3a32.548091226%20%2b0000%20UTC%20m%3d%2b0.031482441" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +35,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1646687/thumbnail?t=2024-01-24%2012%3a44%3a30.559175719%20%2b0000%20UTC%20m%3d%2b0.154828752" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1646687/thumbnail?t=2024-01-24%2018%3a28%3a32.548091226%20%2b0000%20UTC%20m%3d%2b0.031482441" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +47,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/explaining-ab-testing-algorithm-50mf">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1645679/thumbnail?t=2024-01-24%2012%3a44%3a30.559175719%20%2b0000%20UTC%20m%3d%2b0.154828752" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1645679/thumbnail?t=2024-01-24%2018%3a28%3a32.548091226%20%2b0000%20UTC%20m%3d%2b0.031482441" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -59,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1644268/thumbnail?t=2024-01-24%2012%3a44%3a30.559175719%20%2b0000%20UTC%20m%3d%2b0.154828752" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1644268/thumbnail?t=2024-01-24%2018%3a28%3a32.548091226%20%2b0000%20UTC%20m%3d%2b0.031482441" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2024-01-24T12:44:30Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-01-24T18:28:32Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -81,7 +81,7 @@
 
 
 
-`Hanoi, Vietnam - 24/01/2024`
+`Hanoi, Vietnam - 25/01/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
 
@@ -103,18 +103,18 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9 °C</td><td>9.1 °C</td><td>9.1 °C</td><td>9.2 °C</td><td>9.2 °C</td><td>9.3 °C</td><td>9.3 °C</td><td>9.3 °C</td><td>9.4 °C</td><td>9.5 °C</td><td>9.9 °C</td><td>10.1 °C</td><td>10.4 °C</td><td>10.5 °C</td><td>10.7 °C</td><td>11.1 °C</td><td>11.5 °C</td><td>11.4 °C</td><td>11.1 °C</td><td>11 °C</td><td>11 °C</td><td>10.9 °C</td><td>10.7 °C</td><td>10.6 °C</td>
+        <td>10.5 °C</td><td>10 °C</td><td>10.2 °C</td><td>10.2 °C</td><td>10.2 °C</td><td>10.2 °C</td><td>10.1 °C</td><td>10.2 °C</td><td>10.3 °C</td><td>10.6 °C</td><td>11 °C</td><td>11.3 °C</td><td>11.5 °C</td><td>11.8 °C</td><td>12.3 °C</td><td>12.5 °C</td><td>12.7 °C</td><td>12.6 °C</td><td>12.4 °C</td><td>12.3 °C</td><td>12.2 °C</td><td>12.1 °C</td><td>12 °C</td><td>11.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>6.8 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9 kph</td>
+        <td>8.6 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>9 kph</td><td>8.6 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>7.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-01-24T12:44:32Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-01-24T18:28:34Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
