@@ -2,7 +2,7 @@
 
 - Name: Jack
 - My blog: [dev.to/jacktt](https://dev.to/jacktt)
-- Email: [tathuan96@gmail.com](mailto:tathuan96@gmail.com)
+- Email: [jacktt.dev@gmail.com](mailto:jacktt.dev@gmail.com)
 - Software engineer | DevOps | Gopher 🇻🇳
 
 ## My Recent Articles
