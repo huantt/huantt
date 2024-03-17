@@ -11,7 +11,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-40ai">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740436/thumbnail?t=2024-03-16%2018%3a28%3a45.374896778%20%2b0000%20UTC%20m%3d%2b0.032896446" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740436/thumbnail?t=2024-03-17%2001%3a31%3a19.137825873%20%2b0000%20UTC%20m%3d%2b0.549028092" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,7 +23,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-22hf">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740117/thumbnail?t=2024-03-16%2018%3a28%3a45.374896778%20%2b0000%20UTC%20m%3d%2b0.032896446" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740117/thumbnail?t=2024-03-17%2001%3a31%3a19.137825873%20%2b0000%20UTC%20m%3d%2b0.549028092" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +35,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/saa-aws-storage-types-1noo">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1739612/thumbnail?t=2024-03-16%2018%3a28%3a45.374896778%20%2b0000%20UTC%20m%3d%2b0.032896446" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1739612/thumbnail?t=2024-03-17%2001%3a31%3a19.137825873%20%2b0000%20UTC%20m%3d%2b0.549028092" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +47,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/kubernetes-scheduler-129i">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1715409/thumbnail?t=2024-03-16%2018%3a28%3a45.374896778%20%2b0000%20UTC%20m%3d%2b0.032896446" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1715409/thumbnail?t=2024-03-17%2001%3a31%3a19.137825873%20%2b0000%20UTC%20m%3d%2b0.549028092" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -59,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1646687/thumbnail?t=2024-03-16%2018%3a28%3a45.374896778%20%2b0000%20UTC%20m%3d%2b0.032896446" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1646687/thumbnail?t=2024-03-17%2001%3a31%3a19.137825873%20%2b0000%20UTC%20m%3d%2b0.549028092" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2024-03-16T18:28:45Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-03-17T01:31:19Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -103,7 +103,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.7 °C</td><td>23 °C</td><td>21.1 °C</td><td>21.1 °C</td><td>21 °C</td><td>21.2 °C</td><td>21.5 °C</td><td>21.8 °C</td><td>22.4 °C</td><td>23.1 °C</td><td>23.7 °C</td><td>24.3 °C</td><td>24.9 °C</td><td>25.7 °C</td><td>26.3 °C</td><td>26.7 °C</td><td>26.8 °C</td><td>26.9 °C</td><td>25.6 °C</td><td>24.2 °C</td><td>23.4 °C</td><td>23 °C</td><td>22.6 °C</td><td>22.3 °C</td>
+        <td>21.7 °C</td><td>21.4 °C</td><td>21.1 °C</td><td>21.1 °C</td><td>21 °C</td><td>21.2 °C</td><td>21.5 °C</td><td>21.8 °C</td><td>22.4 °C</td><td>23.1 °C</td><td>23.7 °C</td><td>24.3 °C</td><td>24.9 °C</td><td>25.7 °C</td><td>26.3 °C</td><td>26.7 °C</td><td>26.8 °C</td><td>26.9 °C</td><td>25.6 °C</td><td>24.2 °C</td><td>23.4 °C</td><td>23 °C</td><td>22.6 °C</td><td>22.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -114,7 +114,7 @@ Patchy rain nearby
 
 <div align="right">
 
-*Updated at: 2024-03-16T18:28:47Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-03-17T01:31:21Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
