@@ -10,8 +10,56 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-4f53">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1846654/thumbnail?t=2024-05-09%2018%3a28%3a32.702974924%20%2b0000%20UTC%20m%3d%2b0.046757928" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-4f53">Search Goole Like a Pro [Cheat sheet]</a>
+                <div>Before reading my article, let&#39;s try searching the following input:    inurl:/jacktt/ site:dev.to    ...</div>
+                <div><i>08/05/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/advanced-go-build-techniques-4fk1">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1846653/thumbnail?t=2024-05-09%2018%3a28%3a32.702974924%20%2b0000%20UTC%20m%3d%2b0.046757928" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/advanced-go-build-techniques-4fk1">Advanced Go Build Techniques</a>
+                <div>Table of contents   Build options Which file will be included Build tags Build contraints           ...</div>
+                <div><i>08/05/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-536m">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1846357/thumbnail?t=2024-05-09%2018%3a28%3a32.702974924%20%2b0000%20UTC%20m%3d%2b0.046757928" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-536m">Search Goole Like a Pro [Cheat sheet]</a>
+                <div>Before reading my article, let&#39;s try searching the following input:    inurl:/jacktt/ site:dev.to    ...</div>
+                <div><i>08/05/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/advanced-go-build-techniques-29ef">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1846356/thumbnail?t=2024-05-09%2018%3a28%3a32.702974924%20%2b0000%20UTC%20m%3d%2b0.046757928" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/advanced-go-build-techniques-29ef">Advanced Go Build Techniques</a>
+                <div>Table of contents   Build options Which file will be included Build tags Build contraints           ...</div>
+                <div><i>08/05/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/jacktt/solidity-concepts-1p85">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1844657/thumbnail?t=2024-05-09%2012%3a41%3a51.94963526%20%2b0000%20UTC%20m%3d%2b0.044747872" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1844657/thumbnail?t=2024-05-09%2018%3a28%3a32.702974924%20%2b0000%20UTC%20m%3d%2b0.046757928" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -20,59 +68,11 @@
                 <div><i>07/05/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/optimistic-lock-pessimistic-lock-4h36">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1846147/thumbnail?t=2024-05-09%2012%3a41%3a51.94963526%20%2b0000%20UTC%20m%3d%2b0.044747872" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/optimistic-lock-pessimistic-lock-4h36">Optimistic lock &amp; Pessimistic lock</a>
-                <div>Pessimistic lock    Lock READ UPDATE Unlock   Example:    START TRANSACTION;  -- Select the...</div>
-                <div><i>08/05/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-40ai">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740436/thumbnail?t=2024-05-09%2012%3a41%3a51.94963526%20%2b0000%20UTC%20m%3d%2b0.044747872" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-40ai">Kafka dump: backup, restore, stream,...</a>
-                <div>Source code   Kafka dump           Kafka data backup   Kafka dump is a tool to back up and...</div>
-                <div><i>24/01/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-22hf">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1740117/thumbnail?t=2024-05-09%2012%3a41%3a51.94963526%20%2b0000%20UTC%20m%3d%2b0.044747872" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-22hf">Kafka dump: backup, restore, stream,...</a>
-                <div>Source code   Kafka dump           Kafka data backup   Kafka dump is a tool to back up and...</div>
-                <div><i>24/01/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/saa-aws-storage-types-1noo">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1739612/thumbnail?t=2024-05-09%2012%3a41%3a51.94963526%20%2b0000%20UTC%20m%3d%2b0.044747872" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/jacktt/saa-aws-storage-types-1noo">[SAA] AWS EBS, EFS and EC2 insntace storage</a>
-                <div>EBS (a.k.a. Elastic Block Store)    They are bound to a specific AZ (in specific region) You...</div>
-                <div><i>24/01/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-05-09T12:41:51Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-05-09T18:28:32Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -81,11 +81,11 @@
 
 
 
-`Hanoi, Vietnam - 09/05/2024`
+`Hanoi, Vietnam - 10/05/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Moderate rain
+Patchy rain nearby
 
 
 <table>
@@ -95,26 +95,26 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light drizzle</td><td width="200px">Patchy light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear</td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Overcast</td><td width="200px">Partly Cloudy </td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.8 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.4 °C</td><td>25.7 °C</td><td>26.7 °C</td><td>27.1 °C</td><td>28.5 °C</td><td>29.3 °C</td><td>29.7 °C</td><td>30.2 °C</td><td>30.3 °C</td><td>29.7 °C</td><td>29.3 °C</td><td>28.2 °C</td><td>26.7 °C</td><td>26 °C</td><td>25.1 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24.2 °C</td>
+        <td>24 °C</td><td>25 °C</td><td>23.8 °C</td><td>23.5 °C</td><td>23.4 °C</td><td>23.4 °C</td><td>23.8 °C</td><td>24.6 °C</td><td>25.6 °C</td><td>26.9 °C</td><td>27.9 °C</td><td>29.5 °C</td><td>30.2 °C</td><td>31.1 °C</td><td>30.6 °C</td><td>30.4 °C</td><td>30.5 °C</td><td>29.7 °C</td><td>27.9 °C</td><td>26.7 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>9 kph</td><td>9 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>9 kph</td><td>10.4 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>14.8 kph</td><td>15.8 kph</td><td>13.7 kph</td><td>11.2 kph</td><td>14.8 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>7.9 kph</td>
+        <td>9.7 kph</td><td>9 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>9 kph</td><td>7.6 kph</td><td>10.8 kph</td><td>14.8 kph</td><td>19.1 kph</td><td>20.2 kph</td><td>19.1 kph</td><td>19.8 kph</td><td>20.2 kph</td><td>19.1 kph</td><td>16.9 kph</td><td>15.1 kph</td><td>16.9 kph</td><td>13.7 kph</td><td>14.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-05-09T12:41:54Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-05-09T18:28:34Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
