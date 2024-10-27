@@ -11,7 +11,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2024-10-26%2018%3a33%3a43.189177548%20%2b0000%20UTC%20m%3d%2b0.053464340" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2024-10-27%2002%3a02%3a24.35711373%20%2b0000%20UTC%20m%3d%2b0.395888469" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,7 +23,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2024-10-26%2018%3a33%3a43.189177548%20%2b0000%20UTC%20m%3d%2b0.053464340" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2024-10-27%2002%3a02%3a24.35711373%20%2b0000%20UTC%20m%3d%2b0.395888469" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +35,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-10-26%2018%3a33%3a43.189177548%20%2b0000%20UTC%20m%3d%2b0.053464340" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-10-27%2002%3a02%3a24.35711373%20%2b0000%20UTC%20m%3d%2b0.395888469" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +47,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/postgres-isolation-levels-72h">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-10-26%2018%3a33%3a43.189177548%20%2b0000%20UTC%20m%3d%2b0.053464340" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-10-27%2002%3a02%3a24.35711373%20%2b0000%20UTC%20m%3d%2b0.395888469" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -59,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/acid-in-postgres-6h8">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-10-26%2018%3a33%3a43.189177548%20%2b0000%20UTC%20m%3d%2b0.053464340" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-10-27%2002%3a02%3a24.35711373%20%2b0000%20UTC%20m%3d%2b0.395888469" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2024-10-26T18:33:43Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-10-27T02:02:24Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -114,7 +114,7 @@ Moderate rain
 
 <div align="right">
 
-*Updated at: 2024-10-26T18:33:45Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-10-27T02:02:27Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
