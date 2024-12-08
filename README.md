@@ -11,7 +11,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2024-12-08%2002%3a16%3a25.695937297%20%2b0000%20UTC%20m%3d%2b0.193271015" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2024-12-08%2006%3a38%3a01.997344537%20%2b0000%20UTC%20m%3d%2b0.034429674" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,7 +23,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2024-12-08%2002%3a16%3a25.695937297%20%2b0000%20UTC%20m%3d%2b0.193271015" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2024-12-08%2006%3a38%3a01.997344537%20%2b0000%20UTC%20m%3d%2b0.034429674" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +35,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-12-08%2002%3a16%3a25.695937297%20%2b0000%20UTC%20m%3d%2b0.193271015" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-12-08%2006%3a38%3a01.997344537%20%2b0000%20UTC%20m%3d%2b0.034429674" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +47,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/postgres-isolation-levels-72h">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-12-08%2002%3a16%3a25.695937297%20%2b0000%20UTC%20m%3d%2b0.193271015" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-12-08%2006%3a38%3a01.997344537%20%2b0000%20UTC%20m%3d%2b0.034429674" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -59,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/acid-in-postgres-6h8">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-12-08%2002%3a16%3a25.695937297%20%2b0000%20UTC%20m%3d%2b0.193271015" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-12-08%2006%3a38%3a01.997344537%20%2b0000%20UTC%20m%3d%2b0.034429674" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2024-12-08T02:16:25Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-12-08T06:38:01Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -99,22 +99,22 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.1 °C</td><td>16 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>15.5 °C</td><td>15.5 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>16.2 °C</td><td>16 °C</td><td>16.1 °C</td><td>16.3 °C</td><td>16.7 °C</td><td>17 °C</td><td>17.2 °C</td><td>17.2 °C</td><td>17 °C</td><td>16.8 °C</td><td>16.7 °C</td><td>16.6 °C</td><td>16.6 °C</td><td>16.6 °C</td><td>16.6 °C</td>
+        <td>16.1 °C</td><td>16 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.3 °C</td><td>15.3 °C</td><td>15.3 °C</td><td>15.3 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>15.5 °C</td><td>15.6 °C</td><td>15.8 °C</td><td>17 °C</td><td>16.2 °C</td><td>16.3 °C</td><td>16.3 °C</td><td>16.3 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>16.1 °C</td><td>16.1 °C</td><td>16.1 °C</td><td>16.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>19.1 kph</td><td>18.4 kph</td><td>18 kph</td><td>17.6 kph</td><td>16.9 kph</td><td>16.6 kph</td><td>15.5 kph</td><td>15.8 kph</td><td>15.8 kph</td><td>16.2 kph</td><td>16.2 kph</td><td>16.2 kph</td><td>15.8 kph</td><td>14 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.5 kph</td>
+        <td>19.1 kph</td><td>18.4 kph</td><td>18 kph</td><td>17.6 kph</td><td>17.3 kph</td><td>17.3 kph</td><td>15.8 kph</td><td>15.5 kph</td><td>16.6 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>16.9 kph</td><td>16.2 kph</td><td>15.1 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>9 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>5 kph</td><td>5.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2024-12-08T02:16:27Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-12-08T06:38:03Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
