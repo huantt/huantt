@@ -11,7 +11,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2024-12-08%2018%3a35%3a42.868096511%20%2b0000%20UTC%20m%3d%2b0.075601956" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2024-12-09%2002%3a12%3a30.656586473%20%2b0000%20UTC%20m%3d%2b0.077702594" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,7 +23,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2024-12-08%2018%3a35%3a42.868096511%20%2b0000%20UTC%20m%3d%2b0.075601956" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2024-12-09%2002%3a12%3a30.656586473%20%2b0000%20UTC%20m%3d%2b0.077702594" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +35,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-12-08%2018%3a35%3a42.868096511%20%2b0000%20UTC%20m%3d%2b0.075601956" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2024-12-09%2002%3a12%3a30.656586473%20%2b0000%20UTC%20m%3d%2b0.077702594" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +47,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/postgres-isolation-levels-72h">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-12-08%2018%3a35%3a42.868096511%20%2b0000%20UTC%20m%3d%2b0.075601956" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2024-12-09%2002%3a12%3a30.656586473%20%2b0000%20UTC%20m%3d%2b0.077702594" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -59,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/acid-in-postgres-6h8">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-12-08%2018%3a35%3a42.868096511%20%2b0000%20UTC%20m%3d%2b0.075601956" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1960352/thumbnail?t=2024-12-09%2002%3a12%3a30.656586473%20%2b0000%20UTC%20m%3d%2b0.077702594" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2024-12-08T18:35:42Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-12-09T02:12:30Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -99,11 +99,11 @@ Overcast
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast </td><td width="200px">Overcast</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td>
+        <td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.1 °C</td><td>16 °C</td><td>16.1 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>16.1 °C</td><td>16.2 °C</td><td>16.3 °C</td><td>16.7 °C</td><td>17.1 °C</td><td>17.8 °C</td><td>18.7 °C</td><td>19.5 °C</td><td>20.3 °C</td><td>21 °C</td><td>21.3 °C</td><td>21.3 °C</td><td>20.9 °C</td><td>20.6 °C</td><td>20.4 °C</td><td>20.2 °C</td><td>20 °C</td><td>19.8 °C</td><td>19.5 °C</td>
+        <td>16.1 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>16.1 °C</td><td>16.2 °C</td><td>16.3 °C</td><td>16.7 °C</td><td>17.1 °C</td><td>17.8 °C</td><td>18.7 °C</td><td>19.5 °C</td><td>20.3 °C</td><td>21 °C</td><td>21.3 °C</td><td>21.3 °C</td><td>20.9 °C</td><td>20.6 °C</td><td>20.4 °C</td><td>20.2 °C</td><td>20 °C</td><td>19.8 °C</td><td>19.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -114,7 +114,7 @@ Overcast
 
 <div align="right">
 
-*Updated at: 2024-12-08T18:35:45Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2024-12-09T02:12:32Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
