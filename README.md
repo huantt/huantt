@@ -11,7 +11,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/pod-topology-spread-constraints-2pd7">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2201593/thumbnail?t=2025-01-15%2012%3a50%3a05.481571671%20%2b0000%20UTC%20m%3d%2b0.034538117" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2201593/thumbnail?t=2025-01-15%2018%3a33%3a12.022787967%20%2b0000%20UTC%20m%3d%2b0.125133096" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,7 +23,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2025-01-15%2012%3a50%3a05.481571671%20%2b0000%20UTC%20m%3d%2b0.034538117" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2025-01-15%2018%3a33%3a12.022787967%20%2b0000%20UTC%20m%3d%2b0.125133096" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +35,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2025-01-15%2012%3a50%3a05.481571671%20%2b0000%20UTC%20m%3d%2b0.034538117" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2025-01-15%2018%3a33%3a12.022787967%20%2b0000%20UTC%20m%3d%2b0.125133096" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +47,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2025-01-15%2012%3a50%3a05.481571671%20%2b0000%20UTC%20m%3d%2b0.034538117" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997485/thumbnail?t=2025-01-15%2018%3a33%3a12.022787967%20%2b0000%20UTC%20m%3d%2b0.125133096" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -59,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/postgres-isolation-levels-72h">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2025-01-15%2012%3a50%3a05.481571671%20%2b0000%20UTC%20m%3d%2b0.034538117" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1997475/thumbnail?t=2025-01-15%2018%3a33%3a12.022787967%20%2b0000%20UTC%20m%3d%2b0.125133096" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2025-01-15T12:50:05Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2025-01-15T18:33:12Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -81,11 +81,11 @@
 
 
 
-`Hanoi, Vietnam - 15/01/2025`
+`Hanoi, Vietnam - 16/01/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Patchy rain nearby
+Sunny
 
 
 <table>
@@ -95,26 +95,26 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Mist</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.1 °C</td><td>19 °C</td><td>18.8 °C</td><td>18.5 °C</td><td>18.3 °C</td><td>18.2 °C</td><td>18.3 °C</td><td>18.4 °C</td><td>19 °C</td><td>19.6 °C</td><td>19.9 °C</td><td>20.1 °C</td><td>20.2 °C</td><td>20.6 °C</td><td>21 °C</td><td>21.3 °C</td><td>21.3 °C</td><td>20.9 °C</td><td>20.1 °C</td><td>20.2 °C</td><td>19.4 °C</td><td>18.9 °C</td><td>18.4 °C</td><td>18.5 °C</td>
+        <td>18.2 °C</td><td>18.1 °C</td><td>17.9 °C</td><td>17.4 °C</td><td>16 °C</td><td>15 °C</td><td>14.3 °C</td><td>13.9 °C</td><td>15.9 °C</td><td>18.4 °C</td><td>20.4 °C</td><td>22 °C</td><td>23.1 °C</td><td>23.9 °C</td><td>24.4 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>23.8 °C</td><td>21.3 °C</td><td>19.2 °C</td><td>18.1 °C</td><td>17.6 °C</td><td>16.9 °C</td><td>16.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4 kph</td><td>3.6 kph</td><td>6.8 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>13 kph</td><td>16.2 kph</td><td>20.2 kph</td><td>21.6 kph</td><td>22.3 kph</td><td>20.9 kph</td><td>20.2 kph</td><td>18.4 kph</td><td>15.5 kph</td><td>13.3 kph</td><td>10.8 kph</td><td>8.3 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.5 kph</td>
+        <td>2.5 kph</td><td>3.6 kph</td><td>4 kph</td><td>5.8 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>12.2 kph</td><td>15.8 kph</td><td>16.2 kph</td><td>15.5 kph</td><td>13.3 kph</td><td>10.8 kph</td><td>9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>12.6 kph</td><td>20.2 kph</td><td>17.3 kph</td><td>14.8 kph</td><td>11.9 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2025-01-15T12:50:07Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2025-01-15T18:33:14Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
