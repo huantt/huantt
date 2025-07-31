@@ -11,7 +11,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/tracing-error-strack-in-golang-234o">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2517337/thumbnail?t=2025-07-31%2006%3a49%3a56.177415329%20%2b0000%20UTC%20m%3d%2b0.067537451" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2517337/thumbnail?t=2025-07-31%2013%3a04%3a57.44237014%20%2b0000%20UTC%20m%3d%2b0.042522612" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -23,7 +23,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/a-better-pkggodev-hip">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2282180/thumbnail?t=2025-07-31%2006%3a49%3a56.177415329%20%2b0000%20UTC%20m%3d%2b0.067537451" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2282180/thumbnail?t=2025-07-31%2013%3a04%3a57.44237014%20%2b0000%20UTC%20m%3d%2b0.042522612" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -35,7 +35,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/pod-topology-spread-constraints-2pd7">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2201593/thumbnail?t=2025-07-31%2006%3a49%3a56.177415329%20%2b0000%20UTC%20m%3d%2b0.067537451" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2201593/thumbnail?t=2025-07-31%2013%3a04%3a57.44237014%20%2b0000%20UTC%20m%3d%2b0.042522612" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -47,7 +47,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2025-07-31%2006%3a49%3a56.177415329%20%2b0000%20UTC%20m%3d%2b0.067537451" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2027227/thumbnail?t=2025-07-31%2013%3a04%3a57.44237014%20%2b0000%20UTC%20m%3d%2b0.042522612" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -59,7 +59,7 @@
         <tr>
             <td width="300px">
                 <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2025-07-31%2006%3a49%3a56.177415329%20%2b0000%20UTC%20m%3d%2b0.067537451" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2000292/thumbnail?t=2025-07-31%2013%3a04%3a57.44237014%20%2b0000%20UTC%20m%3d%2b0.042522612" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2025-07-31T06:49:56Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2025-07-31T13:04:57Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -103,7 +103,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29.9 °C</td><td>29.8 °C</td><td>29.6 °C</td><td>29.3 °C</td><td>29 °C</td><td>28.7 °C</td><td>28.7 °C</td><td>29.2 °C</td><td>30.4 °C</td><td>31.8 °C</td><td>32.9 °C</td><td>33.3 °C</td><td>33.9 °C</td><td>34.3 °C</td><td>35.8 °C</td><td>36.2 °C</td><td>36.3 °C</td><td>35.7 °C</td><td>33.5 °C</td><td>31.8 °C</td><td>30.7 °C</td><td>30.7 °C</td><td>30.6 °C</td><td>30.1 °C</td>
+        <td>29.9 °C</td><td>29.8 °C</td><td>29.6 °C</td><td>29.3 °C</td><td>29 °C</td><td>28.7 °C</td><td>28.7 °C</td><td>29.2 °C</td><td>30.4 °C</td><td>31.8 °C</td><td>32.9 °C</td><td>33.3 °C</td><td>33.9 °C</td><td>35.1 °C</td><td>35.8 °C</td><td>36.2 °C</td><td>36.3 °C</td><td>35.7 °C</td><td>33.5 °C</td><td>31.8 °C</td><td>33 °C</td><td>30.7 °C</td><td>30.6 °C</td><td>30.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -114,7 +114,7 @@ Patchy rain nearby
 
 <div align="right">
 
-*Updated at: 2025-07-31T06:49:58Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2025-07-31T13:04:59Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
