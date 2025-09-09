@@ -10,8 +10,8 @@
 <table>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o">
-                    <img src="" alt="thumbnail">
+                 <a href="https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o">
+                    <img src="data/images/default-thumbnail.png" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -22,8 +22,8 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/tracing-error-strack-in-golang-234o">
-                    <img src="" alt="thumbnail">
+                 <a href="https://dev.to/jacktt/tracing-error-strack-in-golang-234o">
+                    <img src="data/images/default-thumbnail.png" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -34,7 +34,7 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/a-better-pkggodev-hip">
+                 <a href="https://dev.to/jacktt/a-better-pkggodev-hip">
                     <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4mwymfyiy1d2jgrweca.png" alt="thumbnail">
                 </a>
             </td>
@@ -46,7 +46,7 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/pod-topology-spread-constraints-2pd7">
+                 <a href="https://dev.to/jacktt/pod-topology-spread-constraints-2pd7">
                     <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3wrh7ita355fq7dzzto1.png" alt="thumbnail">
                 </a>
             </td>
@@ -58,8 +58,8 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">
-                    <img src="" alt="thumbnail">
+                 <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">
+                    <img src="data/images/default-thumbnail.png" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2025-09-09T08:24:01Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2025-09-09T08:33:01Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -114,7 +114,7 @@ Moderate rain
 
 <div align="right">
 
-*Updated at: 2025-09-09T08:24:03Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2025-09-09T08:33:03Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
