@@ -2,8 +2,8 @@
     {{- range $i, $article := .Articles }}
         <tr>
             <td width="300px">
-                <a href="{{$article.Url}}">
-                    <img src="{{ $article.Thumbnail | default "data/images/default-thumbnail.png" }}" alt="thumbnail">
+                 <a href="{{$article.Url}}">
+                    <img src="{{- if ne $article.Thumbnail ""}}{{ $article.Thumbnail }}{{- else}}{{`data/images/default-thumbnail.png`}}{{- end}}" alt="thumbnail">
                 </a>
             </td>
             <td>
