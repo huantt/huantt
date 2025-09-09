@@ -3,7 +3,7 @@
         <tr>
             <td width="300px">
                 <a href="{{$article.Url}}">
-                    <img src="{{ $article.Thumbnail }}" alt="thumbnail">
+                    <img src="{{ $article.Thumbnail | default "data/images/default-thumbnail.png" }}" alt="thumbnail">
                 </a>
             </td>
             <td>
