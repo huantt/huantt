@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2025-10-08T18:43:11Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2025-10-09T02:00:36Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -103,7 +103,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.4 °C</td><td>24.2 °C</td><td>24 °C</td><td>23.9 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.4 °C</td><td>24.6 °C</td><td>26.3 °C</td><td>27.9 °C</td><td>29.4 °C</td><td>30.6 °C</td><td>31.4 °C</td><td>31.7 °C</td><td>31.4 °C</td><td>31.1 °C</td><td>30.6 °C</td><td>29.7 °C</td><td>28.2 °C</td><td>27.2 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.5 °C</td><td>25.2 °C</td>
+        <td>24.4 °C</td><td>24.1 °C</td><td>24 °C</td><td>23.9 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.4 °C</td><td>24.6 °C</td><td>26.3 °C</td><td>27.1 °C</td><td>29.4 °C</td><td>30.6 °C</td><td>31.4 °C</td><td>31.7 °C</td><td>31.4 °C</td><td>31.1 °C</td><td>30.6 °C</td><td>29.7 °C</td><td>28.2 °C</td><td>27.2 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.5 °C</td><td>25.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -114,7 +114,7 @@ Sunny
 
 <div align="right">
 
-*Updated at: 2025-10-08T18:43:14Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2025-10-09T02:00:38Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
