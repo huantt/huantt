@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2025-11-20T12:59:57Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2025-11-20T18:44:55Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -81,7 +81,7 @@
 
 
 
-`Hanoi, Vietnam - 20/11/2025`
+`Hanoi, Vietnam - 21/11/2025`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
@@ -103,18 +103,18 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.7 °C</td><td>13.6 °C</td><td>13.5 °C</td><td>13.5 °C</td><td>13.3 °C</td><td>13.1 °C</td><td>13.1 °C</td><td>13.7 °C</td><td>15.7 °C</td><td>17.4 °C</td><td>18.8 °C</td><td>20.1 °C</td><td>21 °C</td><td>21.7 °C</td><td>22.2 °C</td><td>22.3 °C</td><td>22 °C</td><td>20.3 °C</td><td>18.9 °C</td><td>19.3 °C</td><td>17.7 °C</td><td>17.2 °C</td><td>16.6 °C</td><td>16.1 °C</td>
+        <td>15.8 °C</td><td>17.1 °C</td><td>15.4 °C</td><td>15.2 °C</td><td>15.1 °C</td><td>14.9 °C</td><td>14.9 °C</td><td>15.5 °C</td><td>17.1 °C</td><td>18.8 °C</td><td>20.4 °C</td><td>21.6 °C</td><td>22.2 °C</td><td>22.8 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>22.7 °C</td><td>21.3 °C</td><td>20.3 °C</td><td>19.7 °C</td><td>18.8 °C</td><td>18.2 °C</td><td>17.6 °C</td><td>17.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9 kph</td><td>9 kph</td><td>12.6 kph</td><td>14.4 kph</td><td>15.8 kph</td><td>15.8 kph</td><td>14.8 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>13.7 kph</td><td>11.9 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>11.9 kph</td><td>12.2 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.5 kph</td>
+        <td>10.4 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>12.6 kph</td><td>15.1 kph</td><td>16.2 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>15.8 kph</td><td>14.4 kph</td><td>13 kph</td><td>10.1 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2025-11-20T12:59:59Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2025-11-20T18:44:57Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
