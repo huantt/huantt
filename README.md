@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2025-12-14T02:30:14Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2025-12-14T06:45:26Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -103,7 +103,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.8 °C</td><td>16.5 °C</td><td>16.3 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>15.9 °C</td><td>15.7 °C</td><td>15.5 °C</td><td>15.7 °C</td><td>18.2 °C</td><td>16.4 °C</td><td>16.6 °C</td><td>17 °C</td><td>17.4 °C</td><td>17.8 °C</td><td>18.2 °C</td><td>18.3 °C</td><td>17.8 °C</td><td>17.3 °C</td><td>17 °C</td><td>16.8 °C</td><td>16.7 °C</td><td>16.5 °C</td><td>16.4 °C</td>
+        <td>16.8 °C</td><td>16.5 °C</td><td>16.3 °C</td><td>16.2 °C</td><td>16.1 °C</td><td>15.9 °C</td><td>15.7 °C</td><td>15.5 °C</td><td>15.7 °C</td><td>16.1 °C</td><td>16.4 °C</td><td>16.6 °C</td><td>17 °C</td><td>22.3 °C</td><td>17.8 °C</td><td>18.2 °C</td><td>18.3 °C</td><td>17.8 °C</td><td>17.3 °C</td><td>17 °C</td><td>16.8 °C</td><td>16.7 °C</td><td>16.5 °C</td><td>16.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -114,7 +114,7 @@ Partly Cloudy
 
 <div align="right">
 
-*Updated at: 2025-12-14T02:30:16Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2025-12-14T06:45:28Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
