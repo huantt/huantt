@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2026-04-29T08:33:09Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2026-04-29T14:30:15Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -99,11 +99,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Light drizzle</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td>
+        <td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Light drizzle</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.3 °C</td><td>22.9 °C</td><td>21.8 °C</td><td>21.2 °C</td><td>21.3 °C</td><td>21.7 °C</td><td>22.4 °C</td><td>23.1 °C</td><td>24.5 °C</td><td>26.8 °C</td><td>27.7 °C</td><td>28.7 °C</td><td>29.2 °C</td><td>29.9 °C</td><td>28.9 °C</td><td>26.7 °C</td><td>25.3 °C</td><td>24.8 °C</td><td>23.9 °C</td><td>23.5 °C</td><td>22.9 °C</td>
+        <td>25 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.3 °C</td><td>22.9 °C</td><td>21.8 °C</td><td>21.2 °C</td><td>21.3 °C</td><td>21.7 °C</td><td>22.4 °C</td><td>23.1 °C</td><td>24.5 °C</td><td>26.8 °C</td><td>27.7 °C</td><td>28.7 °C</td><td>29.5 °C</td><td>29.9 °C</td><td>28.9 °C</td><td>26.7 °C</td><td>25.3 °C</td><td>24.8 °C</td><td>24.1 °C</td><td>23.5 °C</td><td>22.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -114,7 +114,7 @@ Patchy rain nearby
 
 <div align="right">
 
-*Updated at: 2026-04-29T08:33:11Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2026-04-29T14:30:18Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
