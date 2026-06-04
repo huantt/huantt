@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2026-06-04T05:04:34Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2026-06-04T10:11:39Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -103,7 +103,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.1 °C</td><td>27.4 °C</td><td>28.3 °C</td><td>29.8 °C</td><td>31.5 °C</td><td>32.6 °C</td><td>34.2 °C</td><td>34.9 °C</td><td>35.5 °C</td><td>35.6 °C</td><td>35.8 °C</td><td>35.8 °C</td><td>35.4 °C</td><td>33.7 °C</td><td>31.3 °C</td><td>29.5 °C</td><td>29.2 °C</td><td>28.9 °C</td><td>28.7 °C</td>
+        <td>28 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.1 °C</td><td>27.4 °C</td><td>28.3 °C</td><td>29.8 °C</td><td>31.5 °C</td><td>32.6 °C</td><td>33.8 °C</td><td>34.9 °C</td><td>35.5 °C</td><td>35.6 °C</td><td>35.8 °C</td><td>35.8 °C</td><td>36.1 °C</td><td>33.7 °C</td><td>31.3 °C</td><td>29.5 °C</td><td>29.2 °C</td><td>28.9 °C</td><td>28.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -114,7 +114,7 @@ Moderate rain
 
 <div align="right">
 
-*Updated at: 2026-06-04T05:04:36Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2026-06-04T10:11:41Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
