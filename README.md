@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2026-08-05T09:05:05Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2026-08-05T14:32:20Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -107,14 +107,14 @@ Light rain shower
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>4 kph</td><td>4 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>7.2 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>0.7 kph</td><td>1.4 kph</td><td>1.1 kph</td>
+        <td>6.8 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>4 kph</td><td>4 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>7.2 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>1.1 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2026-08-05T09:05:07Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2026-08-05T14:32:21Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
