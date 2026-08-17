@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2026-08-17T07:15:54Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2026-08-17T13:05:23Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -103,18 +103,18 @@ Smoky haze
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29 °C</td><td>28.6 °C</td><td>28.4 °C</td><td>28.1 °C</td><td>20.8 °C</td><td>20.9 °C</td><td>20.9 °C</td><td>20.9 °C</td><td>21.1 °C</td><td>21.2 °C</td><td>21.2 °C</td><td>21.3 °C</td><td>21.4 °C</td><td>21.5 °C</td><td>21.6 °C</td><td>21.8 °C</td><td>21.7 °C</td><td>21.8 °C</td><td>21.8 °C</td><td>21.9 °C</td><td>21.8 °C</td><td>21.8 °C</td><td>21.8 °C</td><td>21.7 °C</td>
+        <td>21 °C</td><td>20.9 °C</td><td>20.9 °C</td><td>20.8 °C</td><td>20.7 °C</td><td>20.7 °C</td><td>20.8 °C</td><td>21 °C</td><td>21 °C</td><td>21.1 °C</td><td>21.2 °C</td><td>21.2 °C</td><td>21.4 °C</td><td>21.5 °C</td><td>21.5 °C</td><td>21.5 °C</td><td>21.6 °C</td><td>21.7 °C</td><td>21.7 °C</td><td>21.7 °C</td><td>21.7 °C</td><td>21.6 °C</td><td>21.7 °C</td><td>21.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>6.8 kph</td><td>5 kph</td><td>2.5 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>13 kph</td><td>16.6 kph</td><td>19.4 kph</td><td>20.5 kph</td><td>21.6 kph</td><td>23 kph</td><td>23 kph</td><td>23 kph</td><td>22.7 kph</td><td>22 kph</td><td>21.2 kph</td><td>20.2 kph</td><td>21.2 kph</td><td>21.2 kph</td><td>22 kph</td><td>22 kph</td><td>21.6 kph</td><td>20.9 kph</td>
+        <td>3.6 kph</td><td>4.3 kph</td><td>6.5 kph</td><td>10.4 kph</td><td>9 kph</td><td>11.5 kph</td><td>13.7 kph</td><td>16.6 kph</td><td>18 kph</td><td>19.8 kph</td><td>20.5 kph</td><td>22 kph</td><td>20.9 kph</td><td>20.5 kph</td><td>22 kph</td><td>21.6 kph</td><td>20.9 kph</td><td>20.2 kph</td><td>20.9 kph</td><td>21.6 kph</td><td>21.6 kph</td><td>21.6 kph</td><td>20.9 kph</td><td>20.2 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2026-08-17T07:15:55Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2026-08-17T13:05:24Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
