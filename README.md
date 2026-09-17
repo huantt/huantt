@@ -72,7 +72,7 @@
 
 <div align="right">
 
-*Updated at: 2026-09-16T21:18:38Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2026-09-17T04:53:43Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
@@ -95,26 +95,26 @@ Light rain shower
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Light rain shower</td>
+        <td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.4 °C</td><td>23.3 °C</td><td>23.3 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>23.2 °C</td><td>23.2 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>23.2 °C</td><td>23.4 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>23.5 °C</td><td>23.9 °C</td><td>24.2 °C</td><td>23.9 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>23.6 °C</td><td>23.5 °C</td>
+        <td>23.4 °C</td><td>23.3 °C</td><td>23.3 °C</td><td>23.3 °C</td><td>23.3 °C</td><td>23.3 °C</td><td>23.3 °C</td><td>23.6 °C</td><td>24.1 °C</td><td>23.8 °C</td><td>23.6 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>23.4 °C</td><td>23.7 °C</td><td>24.1 °C</td><td>24.6 °C</td><td>24.8 °C</td><td>23.9 °C</td><td>23.7 °C</td><td>23.7 °C</td><td>23.8 °C</td><td>23.5 °C</td><td>23.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.4 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>1.1 kph</td>
+        <td>5.4 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>1.1 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>3.2 kph</td><td>2.5 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2026-09-16T21:18:40Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2026-09-17T04:53:44Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
 
